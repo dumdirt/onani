@@ -1,2 +1,2 @@
 while True:
-  print("Die")
+  print("Die" + chr(7))
