@@ -1,2 +1,2 @@
 language = "python3"
-run = "while True: print("Fun in infinite")"
+run = "python script.py cum"
